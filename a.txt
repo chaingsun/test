@@ -1,4 +1,11 @@
 Git is a distributed version control system
 Git ia a software
 Git is a version control system
+<<<<<<< HEAD
 create a branch is quickly and simple
+=======
+create a new branch is simple and quickly
+
+
+hello
+>>>>>>> feature1
