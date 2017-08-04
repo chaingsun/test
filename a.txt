@@ -11,3 +11,5 @@ hello
 >>>>>>> feature1
 
 new branch
+大法师的
+发达
