@@ -9,3 +9,5 @@ create a new branch is simple and quickly
 
 hello
 >>>>>>> feature1
+
+new branch
